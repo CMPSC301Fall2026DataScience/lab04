@@ -74,6 +74,16 @@ git commit -m "Your notes about commit here"
 git push
 ```
 
+![--- --- --- --- --- --- --- --- ---](graphics/div_bar.png)
+
+## Project Assessment
+
+The grade that a student receives on this assignment will have the following components.
+
+* **GitHub Actions CI Build Status [up to 5%]:**: For the lab repository associated with this assignment students will receive a checkmark grade if their last before-the-deadline build passes. This is only checking some baseline writing and commit requirements as well as correct running of the program. An additional reduction will given if the commit log shows a cluster of commits at the end clearly used just to pass this requirement. An addition reduction will also be given if there is no commit during lab work times. All other requirements are evaluated manually.
+
+* **Mastery of Technical Writing [up to 95%]:**: Students will also receive a checkmark grade when the responses to the writing questions presented in the `reflection.md` reveal a proficiency of both writing skills and technical knowledge. To receive a checkmark grade, the submitted writing should have correct spelling, grammar, and punctuation in addition to following the rules of Markdown and providing conceptually and technically accurate answers.
+
 ### Checks for GatorGrade
 
 For immediate feedback, we use GatorGrade to report missing components. You will see a red X that turns into a green check mark when all components are included. Click on the red X to see a listing of the components to address.
